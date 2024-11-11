@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { TimerDisplay } from "./pomodoro/timer-display";
 import { TaskList } from "./pomodoro/task-list";
 import { TaskInput } from "./pomodoro/task-input";
